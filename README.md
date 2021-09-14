@@ -7,6 +7,7 @@
   - [Introdution](#introdution)
   - [Technologies](#technologies)
   - [Launch](#launch)
+  - [Debate](#debate)
 
 ## Introdution
 
@@ -24,3 +25,20 @@
 ## Launch
 
 - reqiure any kind browser you want (except IE, really don't use it, it's trash)
+
+## Debate
+
+- choose kind of color we want to use
+  - rgba()
+  - hlsa()
+  - hex
+  - name
+
+- design of page three kind
+  - pc and lap
+  - tablet (like ipad)
+  - phone
+- design code js
+  - export to screen
+  - change color background
+  - etc.
