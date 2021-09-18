@@ -21,10 +21,11 @@
 - bootstrap
 - bootstrap icon
 - node.js 12.0 over
+- browser
 
 ## Launch
 
-- reqiure any kind browser you want (except IE, really don't use it, it's trash)
+- require any kind browser you want (except IE, really don't use it, it's trash)
 
 ## Debate
 

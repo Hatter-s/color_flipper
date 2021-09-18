@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="sample1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0230034"
+     inkscape:cx="972.13757"
+     inkscape:cy="798.14009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.752443;fill:#ffffff;stroke:#ffffff;stroke-width:0.0743445;stroke-linejoin:round;stroke-dasharray:0.297377, 0.297377;paint-order:fill markers stroke"
+       id="rect31"
+       width="420.64661"
+       height="297.01849"
+       x="0.72226626"
+       y="0.72226477" />
+    <rect
+       style="opacity:0.752443;fill:#ffffff;stroke:#ffffff;stroke-width:0.0928688;stroke-linejoin:round;stroke-dasharray:0.371475, 0.371475;paint-order:fill markers stroke"
+       id="rect3452"
+       width="212.14287"
+       height="102.41379"
+       x="38.770935"
+       y="81.199509" />
+    <rect
+       style="opacity:0.752443;fill:#000000;stroke:#ffffff;stroke-width:0.0928688;stroke-linejoin:round;stroke-dasharray:0.371475, 0.371475;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect14396"
+       width="211.77708"
+       height="20.848522"
+       x="39.136707"
+       y="81.199509" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="47.366383"
+       y="92.355293"
+       id="text6332"><tspan
+         sodipodi:role="line"
+         id="tspan6330"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583;font-size:6.35px"
+         x="47.366383"
+         y="92.355293">Color Flipper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="203.49069"
+       y="93.751793"
+       id="text21762"><tspan
+         sodipodi:role="line"
+         id="tspan21760"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="203.49069"
+         y="93.751793">Simple Hex</tspan></text>
+    <rect
+       style="opacity:0.752443;fill:#f3ff13;fill-opacity:1;stroke:#ffffff;stroke-width:0.0928688;stroke-linejoin:round;stroke-dasharray:0.371475, 0.371475;paint-order:fill markers stroke"
+       id="rect47530"
+       width="211.77708"
+       height="81.565262"
+       x="39.136707"
+       y="102.04803" />
+    <rect
+       style="opacity:0.752443;fill:#b29500;fill-opacity:0.99595141;stroke:#ffffff;stroke-width:0.0928688;stroke-linejoin:round;stroke-dasharray:0.371475, 0.371475;paint-order:fill markers stroke"
+       id="rect48910"
+       width="103.69397"
+       height="12.801723"
+       x="91.258003"
+       y="119.23891" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="95.406921"
+       y="127.91012"
+       id="text42712"><tspan
+         sodipodi:role="line"
+         id="tspan42710"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="95.406921"
+         y="127.91012">Background Color: sth</tspan></text>
+    <rect
+       style="opacity:0.752443;fill:#b29500;fill-opacity:0.995951;stroke:#ffffff;stroke-width:0.0928688;stroke-linejoin:round;stroke-dasharray:0.371475, 0.371475;paint-order:fill markers stroke"
+       id="rect51026"
+       width="55.047413"
+       height="13.899014"
+       x="115.94704"
+       y="142.4649" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#ffffff;fill-opacity:1"
+       x="122.34791"
+       y="151.60899"
+       id="text55938"><tspan
+         sodipodi:role="line"
+         id="tspan55936"
+         style="stroke-width:0.264583;fill:#ffffff;fill-opacity:1"
+         x="122.34791"
+         y="151.60899">Change Color</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="276.73828"
+       y="90.004593"
+       id="text80592"><tspan
+         sodipodi:role="line"
+         id="tspan80590"
+         style="stroke-width:0.264583"
+         x="276.73828"
+         y="90.004593">Some css:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="276.73828"
+         y="97.942093"
+         id="tspan80594">body-background-color: value1;</tspan></text>
+    <g
+       id="g237150"
+       transform="translate(2.5863388,-2.8449727)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="279.84183"
+         y="163.97388"
+         id="text84030"><tspan
+           sodipodi:role="line"
+           id="tspan84028"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="163.97388">Some js:</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="171.91138"
+           id="tspan91694">make random color:</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="179.84888"
+           id="tspan91696">RGB(or HSL): (0-255, 0-255, 0-255)</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="187.78638"
+           id="tspan91698">-&gt; value1 </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="195.72388"
+           id="tspan84032" /><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="203.66138"
+           id="tspan99782">JS in DOM:</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="211.59888"
+           id="tspan243144">if value1 light:</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="219.53638"
+           id="tspan87426">  navbar background color: black;</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="227.47388"
+           id="tspan191685">  navbar item text color: white;</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="235.41138"
+           id="tspan107996">  button and main header background</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="243.34888"
+           id="tspan200251">-color: value1 has layer black with </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="251.28638"
+           id="tspan200253">opacity: 0.6 on it.</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="259.22388"
+           id="tspan206365">  button and main text color: white</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="267.16138"
+           id="tspan234407">else reverse all of this</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="275.09888"
+           id="tspan203681" /><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="279.84183"
+           y="283.03638"
+           id="tspan84658" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="312.42972"
+         y="186.99229"
+         id="text95476"><tspan
+           sodipodi:role="line"
+           id="tspan95474"
+           style="stroke-width:0.264583"
+           x="312.42972"
+           y="186.99229">;</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="312.42972"
+           y="194.92979"
+           id="tspan95478" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:108.133;stroke-width:0.264583"
+         x="280.35913"
+         y="195.52721"
+         id="text102402"><tspan
+           x="280.35913"
+           y="195.52721"
+           id="tspan243205">add to body-background-color</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.90328,90.004589 c 44.48503,-25.604752 45.00229,-25.34612 45.00229,-25.34612"
+       id="path115275" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="176.90558"
+       y="64.65847"
+       id="text118207"><tspan
+         sodipodi:role="line"
+         id="tspan118205"
+         style="stroke-width:0.264583"
+         x="176.90558"
+         y="64.65847">nav bar</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.49498,127.5065 c 54.31311,-0.7759 54.57174,-0.7759 54.57174,-0.7759"
+       id="path120450" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="293.80811"
+       y="125.95471"
+       id="text124378"><tspan
+         sodipodi:role="line"
+         id="tspan124376"
+         style="stroke-width:0.264583"
+         x="293.80811"
+         y="125.95471">body</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 76.555628,84.831914 C 143.5418,62.848034 143.28317,63.106667 143.28317,63.106667 l 73.45202,20.69071"
+       id="path131019" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.10973"
+       y="62.589397"
+       id="text133663"><tspan
+         sodipodi:role="line"
+         id="tspan133661"
+         style="stroke-width:0.264583"
+         x="123.10973"
+         y="62.589397">nav bar items</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.31847,154.40443 11.89716,43.19185"
+       id="path138006" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="170.18108"
+       y="201.99307"
+       id="text139126"><tspan
+         sodipodi:role="line"
+         id="tspan139124"
+         style="stroke-width:0.264583"
+         x="170.18108"
+         y="201.99307">button</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.073663,125.43743 112.2471,206.64847"
+       id="path142001" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="112.24709"
+       y="206.64847"
+       id="text146223"><tspan
+         sodipodi:role="line"
+         id="tspan146221"
+         style="stroke-width:0.264583"
+         x="112.24709"
+         y="206.64847">main header</tspan></text>
+  </g>
+</svg>
