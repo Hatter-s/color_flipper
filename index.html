@@ -11,14 +11,22 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
-        <a href="./index.html" class="navbar-brand">Color Flipper</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar-collapse">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a href="#" class="nav-link"> #FFFF00</a></li>
-            </ul>
+        <div class="container">
+            <a href="./index.html" class="navbar-brand">Color Flipper</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle"  id="dropdown-color" data-bs-toggle="dropdown">Dropdown Color</a>
+                        <ul class="dropdown-menu" id="container-color">
+                            <li class="dropdown-item" id="hex-color" title="hex color">#FFFF00</li>
+                            <li class="dropdown-item " id="rgb-color" title="RGB color">rgb(255, 255, 0)</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
     <!-- JavaScript Bundle with Popper -->
