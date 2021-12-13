@@ -15,10 +15,6 @@ nav #container-color{
     background-color: var(--bs-dark);
 }
 
-nav #container-color li{
-    color: var(--bs-light);
-}
-
 nav #container-color li:hover{
     color: var(--bs-dark);
 }

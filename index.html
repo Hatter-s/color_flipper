@@ -10,7 +10,7 @@
     <link href="./source/style/style.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a href="./index.html" class="navbar-brand">Color Flipper</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse">
@@ -29,13 +29,15 @@
             </div>
         </div>
     </nav>
-    <!-- JavaScript Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     <header>
         <div class="container text-center">
             <h1>Background Color:<br><span>RGB(255, 255, 0)</span></h1>
-            <button class="btn-lg">Change Color</button>
+            <button class="btn-lg" id="btn-change-color" onclick="chooseFile()">Change Color</button>
+            <p id="test"></p>
         </div>
     </header>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <script src="source/script/script.js"></script>
 </body>
 </html>
